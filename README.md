@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://drive.google.com/file/d/1jxqYgnEX5TNmtrkZLlms3hJDfQQSYADO/view?usp=sharing)
+![screenshot](https://drive.google.com/file/d/1jxqYgnEX5TNmtrkZLlms3hJDfQQSYADO/view?usp=sharing.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
