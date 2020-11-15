@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://aries101design.github.io/404-Not-Found/">f
+    <a href="https://aries101design.github.io/404-Not-Found/">
       Demo
     </a>
     <span> | </span>
@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://drive.google.com/file/d/1jxqYgnEX5TNmtrkZLlms3hJDfQQSYADO/view?usp=sharing.png)
+![screenshot](https://aries101design.github.io/404-Not-Found/.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
